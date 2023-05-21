@@ -17,6 +17,14 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 - Reforzar conocimientos sobre el stack tecnológico MERN y nuevas tecnologías.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 
+[![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)
+
+<!-- ![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&hide=contribs,prs)
+
+![Monica GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&show_icons=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)
+
 # Contáctame 
 <img alt="Logo de Linkedin" src="./img/linkedinLogo.png" width="45">
 
