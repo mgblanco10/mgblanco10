@@ -10,8 +10,6 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 # Lenguajes y tecnologías:
 ![Imagen de las herramientas y tecnologías con las que he trabajado](./img/tecnologias.png)
 
-
-
 #### Actualmente me dedico a:
 
 - Reforzar conocimientos sobre el stack tecnológico MERN y nuevas tecnologías.
@@ -23,7 +21,10 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 
 ![Monica GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&langs_count=8)](https://github.com/mgblanco10/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact)](https://github.com/mgblanco10/github-readme-stats)
+
 
 # Contáctame 
 <img alt="Logo de Linkedin" src="./img/linkedinLogo.png" width="45">
