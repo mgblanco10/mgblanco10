@@ -1,4 +1,4 @@
-<img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 130px; width: 100%;">
+<img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 160px; width: 100%;">
 
 # Sobre mi
 Debo decir que disfruto aprendiendo cosas nuevas y no me dan miedo los retos, me considero una persona apasionada del desarrollo web y encuentro gran satisfacción en aprender y crecer todos los días en este apasionante campo. Desde que comencé este viaje he mantenido mi compromiso de crecimiento profesional, explorando y dominando nuevas tecnologías y herramientas en el mundo del desarrollo web. ¡Siempre en busca de nuevos desafíos!
