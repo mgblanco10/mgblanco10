@@ -1,11 +1,4 @@
-<style>
-    .header-image {
-        max-width: 100%;
-        height: auto;
-    }
-</style>
-
-<img src="./img/header.png" alt="Imagen del header donde me identifico" class="header-image">
+<img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 130px; width: 100%;">
 
 # Sobre mi
 Debo decir que disfruto aprendiendo cosas nuevas y no me dan miedo los retos, me considero una persona apasionada del desarrollo web y encuentro gran satisfacción en aprender y crecer todos los días en este apasionante campo. Desde que comencé este viaje he mantenido mi compromiso de crecimiento profesional, explorando y dominando nuevas tecnologías y herramientas en el mundo del desarrollo web. ¡Siempre en busca de nuevos desafíos!
@@ -29,10 +22,14 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 ![Monica GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&show_icons=true) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&langs_count=8)](https://github.com/mgblanco10/github-readme-stats) -->
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact)](https://github.com/mgblanco10/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&exclude_repo=CHATGPT)](https://github.com/mgblanco10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&exclude_repo=CHATGPT)](https://github.com/mgblanco10/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&hide=CHATGPT,courseraPython)](https://github.com/mgblanco10/github-readme-stats)
+
+
 
 
 # Contáctame 
