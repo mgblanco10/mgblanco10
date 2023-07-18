@@ -22,8 +22,8 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 ![Monica GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&show_icons=true) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&langs_count=8)](https://github.com/mgblanco10/github-readme-stats) -->
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact)](https://github.com/mgblanco10/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact)](https://github.com/mgblanco10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&exclude_repo=CHATGPT)](https://github.com/mgblanco10/github-readme-stats) -->
 
