@@ -20,12 +20,12 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="40" width="60"/>
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="40" width="50"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="40" width="50"/>
-<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="50" />
+<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="60" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="60" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="60" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:640/0*r3O0lVqhmhgql4Co.png" alt="Sanctum" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="60" height="30"/>
@@ -34,24 +34,24 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="Next.js" width="50" height="30" />
 <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="40" height="30" />
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mySql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg" alt="jupyter" width="40" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg" alt="jupyter" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="40" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="40" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="xampp" width="40" height="40"/>
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="60" height="40"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/>
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="60" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21~bgwhite.svg" alt="jasmine" width="50" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21~bgwhite.svg" alt="jasmine" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="50" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="40" height="30"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="40" height="30"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="50" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="50" height="40"/>
-<img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="60" height="30"/>
-<img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="60" height="30"/>
+<img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="60" height="40"/>
+<img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="60" height="40"/>
 <img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="60" height="40"/>
 <img src="https://antoniofernandez.com/assets/blog/cloudinary.png" alt="cloudinary" width="60" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digitalocean" width="60" height="40"/>
