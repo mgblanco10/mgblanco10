@@ -36,7 +36,7 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mySql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg" alt="jupyter" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="40" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="50" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="xampp" width="40" height="40"/>
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="60" height="40"/>
