@@ -45,8 +45,8 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21~bgwhite.svg" alt="jasmine" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="50" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="50" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="50" height="40"/>
