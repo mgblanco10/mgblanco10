@@ -30,13 +30,13 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
   <img src="https://miro.medium.com/v2/resize:fit:640/0*r3O0lVqhmhgql4Co.png" alt="Sanctum" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="60" height="30"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="30" />
-<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="60" height="30" />
-<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="Next.js" width="50" height="30" />
-<img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="40" height="30" />
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mySql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="60" height="40" />
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="Next.js" width="50" height="40" />
+<img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="40" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mySql" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg" alt="jupyter" width="50" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="40" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="50" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="50" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="60" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="xampp" width="40" height="40"/>
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="60" height="40"/>
@@ -44,7 +44,7 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21~bgwhite.svg" alt="jasmine" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="50" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="50" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="40" height="40"/>
