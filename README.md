@@ -63,7 +63,7 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 - Trabajar como Frontend en aplicaciones web 3D con integración de inteligencia artificial.
 
-[![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats) 
+<!-- [![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)  -->
 
 <!--  ![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&hide=contribs,prs)  -->
 
