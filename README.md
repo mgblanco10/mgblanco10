@@ -20,6 +20,7 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="50" width="70"/>
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="50" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="60"/>
+<img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="50" width="60"/>
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
