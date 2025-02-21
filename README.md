@@ -48,7 +48,7 @@ Tengo conocimientos de front-end aplicando metodologías ágiles como kanban y s
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="60" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="50" height="50"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="70" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
 <img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="70" height="50"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="70" height="50"/>
