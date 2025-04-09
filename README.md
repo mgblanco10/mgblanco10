@@ -46,7 +46,7 @@ Tengo conocimientos de front-end y backendb con OOP aplicando metodologías ági
 <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21~bgwhite.svg" alt="jasmine" width="70" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="60" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="70" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="90" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="90" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="60" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="50" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="80" height="50"/>
