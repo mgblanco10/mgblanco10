@@ -21,9 +21,9 @@ Tengo conocimientos de front-end y backendb con OOP aplicando metodologías ági
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="50" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="60"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="50" width="60"/>
-<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>
+<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" height="50"/>
