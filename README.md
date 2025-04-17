@@ -18,7 +18,7 @@ Tengo conocimientos de front-end y backendb con OOP aplicando metodologías ági
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img src="https://img.icons8.com/color/512/sass.png" alt="sass" width="60" height="50" />
 <img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="50" width="70"/>
-<img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="50" width="65"/>
+<img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="50" width="70"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="60"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="50" width="60"/>
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
