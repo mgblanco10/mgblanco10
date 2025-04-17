@@ -3,7 +3,7 @@
 # Sobre mi
 Apasionada del desarrollo web con un enfoque especializado en experiencias 3D interactivas, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
 
-Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración de inteligencia artificial para crear herramientas innovadoras: generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
+Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración con inteligencia artificial para crear herramientas de generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
 
 Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
 
@@ -66,7 +66,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 - Trabajo en equipo: Valorando cada experiencia y aprendiendo de colegas.
 - Versatilidad: Desde backend con OOP hasta pruebas (unitarias, E2E), siempre buscando soluciones robustas.
 
-Soy una persona alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
+Soy alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
 
 
 <!-- [![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)  -->
