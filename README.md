@@ -1,11 +1,11 @@
 <img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 200px; width: 100%;">
 
 # Sobre mi
-Disfruto aprendiendo cosas nuevas y no me dan miedo los retos, me considero una persona apasionada del desarrollo web y encuentro gran satisfacción en aprender y crecer todos los días en este apasionante campo. Desde que comencé este viaje he mantenido mi compromiso de crecimiento profesional, explorando y dominando nuevas tecnologías y herramientas en el mundo del desarrollo web. ¡Siempre en busca de nuevos desafíos!
+Apasionada del desarrollo web con un enfoque especializado en experiencias 3D interactivas, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
 
-Disfruto de trabajar en equipo y aprender tanto como es posible de cada experiencia y persona con la que me encuentro. Soy una profesional curiosa, comprometida y alegre, es por ello que me encuentro en constante aprendizaje y busco cada día conocer nuevas herramientas que me ayuden a ser mejor profesional. 
+Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración de inteligencia artificial para crear herramientas innovadoras: generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
 
-Tengo conocimientos de front-end y backendb con OOP aplicando metodologías ágiles como kanban y scrum, desarrollando siempre con principios de código limpio y pruebas unitarias, de integración y end-to-end. 
+Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
 
 # Lenguajes y tecnologías:
 
@@ -60,11 +60,14 @@ Tengo conocimientos de front-end y backendb con OOP aplicando metodologías ági
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digitalocean" width="70" height="50"/>
 </div>
 
-#### Actualmente me dedico a:
+#### Lo que me define:
 
-- Reforzar conocimientos sobre el stack tecnológico MERN y nuevas tecnologías.
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
-- Trabajar como Frontend en aplicaciones web 3D con integración de inteligencia artificial.
+- Aprendizaje continuo: Reforzando el stack MERN, patrones de diseño y buenas prácticas.
+- Trabajo en equipo: Valorando cada experiencia y aprendiendo de colegas.
+- Versatilidad: Desde backend con OOP hasta pruebas (unitarias, E2E), siempre buscando soluciones robustas.
+
+Soy una persona alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
+
 
 <!-- [![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)  -->
 <!--  ![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&hide=contribs,prs)  -->
