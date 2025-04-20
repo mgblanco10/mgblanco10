@@ -10,10 +10,10 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 # Lenguajes y tecnologías:
 
 <div>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="50" heigth="50"/>
-<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width=50" heigth="50"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="45" heigth="45"/>
+<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width=45" heigth="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img src="https://img.icons8.com/color/512/sass.png" alt="sass" width="60" height="50" />
