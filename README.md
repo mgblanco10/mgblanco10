@@ -44,7 +44,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50" height="50"/>
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="70" height="50"/>
 <img src="https://jameymcauliffe.github.io/img/jasmine.png" alt="jasmine" width="70" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="65" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="65" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="70" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="90" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="60" height="50"/>
