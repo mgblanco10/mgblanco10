@@ -56,8 +56,8 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="50"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="80" height="50"/>
 <img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="70" height="50"/>
-<img src="https://antoniofernandez.com/assets/blog/cloudinary.png" alt="cloudinary" width="70" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digitalocean" width="70" height="50"/>
+<img src="https://antoniofernandez.com/assets/blog/cloudinary.png" alt="cloudinary" width="65" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digitalocean" width="65" height="50"/>
 </div>
 
 #### Lo que me define:
