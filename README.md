@@ -50,7 +50,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/vitessio/vitessio-ar21~bgwhite.svg" alt="Vitest" width="70" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="50" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="70" height="35"/>
-<img src="https://i.pinimg.com/736x/8b/81/38/8b8138c4491769dd53c5dc09b6548ecf.jpg" alt="Docker" width="60" height="50"/>
+<img src="https://i.pinimg.com/1200x/c6/ab/c6/c6abc6dc9b99aea3aaafb12d1d35c0f4.jpg" alt="Docker" width="60" height="50"/>
 <img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="75" height="50"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="70" height="50"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="70" height="50"/>
