@@ -10,15 +10,15 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 # Lenguajes y tecnologías:
 
 <div>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="45" heigth="45"/>
-<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width=45" heigth="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img src="https://img.icons8.com/color/512/sass.png" alt="sass" width="60" height="50" />
-<img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="50" width="70"/>
-<img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="50" width="75"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" heigth="40"/>
+<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width=40" heigth="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img src="https://img.icons8.com/color/512/sass.png" alt="sass" width="50" height="40" />
+<img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="40" width="60"/>
+<img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="40" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="65"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="60" width="70"/>
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -43,7 +43,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="75" height="50"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50" height="50"/>
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="70" height="50"/>
-<img src="https://jameymcauliffe.github.io/img/jasmine.png" alt="jasmine" width="60" height="50"/>
+<img src="https://jameymcauliffe.github.io/img/jasmine.png" alt="jasmine" width="55" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="65" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" width="70" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha" width="90" height="50"/>
