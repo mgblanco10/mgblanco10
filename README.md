@@ -7,7 +7,7 @@ Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de
 
 Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
 
-# Lenguajes y tecnologías:
+# Lenguajes, tecnologías y herramientas:
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
