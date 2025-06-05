@@ -30,10 +30,10 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="40"/>
 <img src="https://bagisto.com/wp-content/uploads/2023/04/Laravel-Sanctum.jpeg" alt="Sanctum" width="65" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="REST" width="60" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/oauth/oauth-ar21.svg" alt="OAuth" width="60" height="40"/>
-<img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/graphql_logo_icon_171045.png" alt="GraphQL" width="70" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL_CvWdyQiIUOMvI208iJGa-yGC92g3szRKw&s" alt="REST" width="50" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/2041px-Oauth_logo.svg.png" alt="OAuth" width="50" height="50"/>
+<img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="70" height="40"/>
 <img src="https://programadorphp.es/wp-content/uploads/2014/04/codeigniter.png" alt="Codeigniter" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="60" height="50" />
