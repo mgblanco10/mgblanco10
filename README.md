@@ -25,11 +25,12 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" height="30"/>
+<img src="https://icon2.cleanpng.com/20180809/yqf/af69a8763e64ae513ee837a61b2aceb7.webp" alt="Flask" width="60" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="40"/>
-<img src="https://programadorphp.es/wp-content/uploads/2014/04/codeigniter.png" alt="Codeigniter" width="50" height="50"/>
 <img src="https://bagisto.com/wp-content/uploads/2023/04/Laravel-Sanctum.jpeg" alt="Sanctum" width="65" height="40"/>
+<img src="https://programadorphp.es/wp-content/uploads/2014/04/codeigniter.png" alt="Codeigniter" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="60" height="50" />
 <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="70" height="50" />
