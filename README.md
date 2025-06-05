@@ -42,6 +42,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="60" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mySql" width="70" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg" alt="jupyter" width="70" height="50"/>
+<img src="https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" alt="Pandas" width="70" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="60" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="70" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="xampp" width="40" height="40"/>
