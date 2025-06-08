@@ -17,7 +17,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
 <img src="https://img.icons8.com/color/512/sass.png" alt="sass" width="50" height="40" />
-<img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="40" width="60"/>
+<img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt="Tailwind CSS"  height="50" width="70"/>
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="40" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="65"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="60" width="70"/>
