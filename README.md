@@ -30,7 +30,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="40"/>
 <img src="https://bagisto.com/wp-content/uploads/2023/04/Laravel-Sanctum.jpeg" alt="Sanctum" width="65" height="40"/>
-<img src="https://images.icon-icons.com/2699/PNG/512/graphql_logo_icon_171045.png" alt="GraphQL" width="80" height="50"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/graphql_logo_icon_171045.png" alt="GraphQL" width="90" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL_CvWdyQiIUOMvI208iJGa-yGC92g3szRKw&s" alt="REST" width="40" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/2041px-Oauth_logo.svg.png" alt="OAuth" width="50" height="50"/>
 <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="80" height="50"/>
