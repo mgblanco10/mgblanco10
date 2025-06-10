@@ -63,7 +63,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="80" height="50"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="40" height="50"/>
 <img src="https://static.thenounproject.com/png/3180475-200.png" alt="glTF" width="40" height="50"/>
-<img src="https://images.prismic.io/cesium/2018-04-09-DracoHeader.png?auto=compress,format&rect=0,0,762,400&w=762&h=400 alt="Draco" width="70" height="40"/>
+<img src="https://images.prismic.io/cesium/2018-04-09-DracoHeader.png?auto=compress,format&rect=0,0,762,400&w=762&h=400" alt="Draco" width="70" height="40"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="70" height="50"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="80" height="50"/>
