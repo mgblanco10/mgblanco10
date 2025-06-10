@@ -62,10 +62,17 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="70" height="35"/>
 <img src="https://i.pinimg.com/1200x/c6/ab/c6/c6abc6dc9b99aea3aaafb12d1d35c0f4.jpg" alt="Docker" width="60" height="60"/>
 <img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="80" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="Leaflet" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="40" height="40"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="50" height="65"/>
 <img src="https://static.thenounproject.com/png/3180475-200.png" alt="glTF" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="80" height="50"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="70" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/d3js/d3js-ar21.svg" alt="d3-geo" width="60" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/chartjs/chartjs-icon.svg" alt="Chart.js" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/recharts/recharts-icon.svg" alt="Recharts" width="40" height="40"/>
+<img src="https://nivo.rocks/favicon.ico" alt="Nivo" width="40" height="40"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="90" height="50"/>
 <img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="60" height="40"/>
