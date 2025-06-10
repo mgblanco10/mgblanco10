@@ -66,11 +66,11 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="40" height="40"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="50" height="65"/>
 <img src="https://static.thenounproject.com/png/3180475-200.png" alt="glTF" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="80" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="75" height="45"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="70" height="50"/>
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg" alt="D3.js" width="50" height="50"/>
-<img src="https://www.luisllamas.es/images/20610/javascript-chartjs.png" alt="Chart.js" width="60" height="50"/>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*SNiXLLhxrM5DBVLuBC9tvQ.png" alt="Recharts" width="70" height="50"/>
+<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg" alt="D3.js" width="45" height="45"/>
+<img src="https://www.luisllamas.es/images/20610/javascript-chartjs.png" alt="Chart.js" width="55" height="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*SNiXLLhxrM5DBVLuBC9tvQ.png" alt="Recharts" width="65" height="45"/>
 <img src="https://play-lh.googleusercontent.com/fXIMZ6EP31ml3n7bPu9CNHAuboCQ8DwLPHZ0ly--Uk6WvVcg3hkyF0GOSpOJwbrZQQ" alt="Nivo" width="60" height="60"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="90" height="50"/>
