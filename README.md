@@ -21,7 +21,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="40" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="65"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="60" width="70"/>
-  <img src='https://velog.velcdn.com/images/ebing/post/64896a3c-7e86-43e8-babe-ef99a9c52586/image.png' alt="Framer Motion"  height="40" width="70"/>
+<img src='https://velog.velcdn.com/images/ebing/post/64896a3c-7e86-43e8-babe-ef99a9c52586/image.png' alt="Framer Motion"  height="40" width="70"/>
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
@@ -50,7 +50,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="75" height="50"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/>
-  <img src="https://www.elizeire.com/assets/img/swagger.png" alt="swagger" width="75" height="50"/>
+<img src="https://www.elizeire.com/assets/img/swagger.png" alt="swagger" width="75" height="50"/>
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="70" height="40"/>
 <img src="https://jameymcauliffe.github.io/img/jasmine.png" alt="jasmine" width="55" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="65" height="45"/>
@@ -61,6 +61,9 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="70" height="35"/>
 <img src="https://i.pinimg.com/1200x/c6/ab/c6/c6abc6dc9b99aea3aaafb12d1d35c0f4.jpg" alt="Docker" width="60" height="60"/>
 <img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="80" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gltf-1.svg" alt="glTF" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/draco3d/draco3d-icon.svg" alt="Draco" width="40" height="40"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="70" height="50"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="80" height="50"/>
