@@ -50,7 +50,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="75" height="50"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/>
-  <img src="https://logowik.com/content/uploads/images/swagger6360.jpg" alt="swagger" width="90" height="70"/>
+  <img src=https://pandwarf.com/wp/wp-content/uploads/2021/11/swagger-banner.png" alt="swagger" width="70" height="40"/>
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="70" height="40"/>
 <img src="https://jameymcauliffe.github.io/img/jasmine.png" alt="jasmine" width="55" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" width="65" height="45"/>
