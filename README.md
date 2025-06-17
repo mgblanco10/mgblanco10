@@ -71,7 +71,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg" alt="D3.js" width="40" height="40"/>
 <img src="https://www.luisllamas.es/images/20610/javascript-chartjs.png" alt="Chart.js" width="50" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*SNiXLLhxrM5DBVLuBC9tvQ.png" alt="Recharts" width="60" height="40"/>
-<img src="https://play-lh.googleusercontent.com/fXIMZ6EP31ml3n7bPu9CNHAuboCQ8DwLPHZ0ly--Uk6WvVcg3hkyF0GOSpOJwbrZQQ" alt="Nivo" width="55" height="55"/>
+<img src="https://play-lh.googleusercontent.com/fXIMZ6EP31ml3n7bPu9CNHAuboCQ8DwLPHZ0ly--Uk6WvVcg3hkyF0GOSpOJwbrZQQ" alt="Nivo" width="50" height="50"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="85" height="45"/>
 <img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="65" height="40"/>
