@@ -1,11 +1,13 @@
 <img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 200px; width: 100%;">
 
 # Sobre mi
-Apasionada del desarrollo web con un enfoque especializado en experiencias 3D interactivas, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
+Desarrolladora web especializada en experiencias 3D interactivas, con pasión por resolver desafíos técnicos complejos y crear soluciones innovadoras, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
 
 Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración con inteligencia artificial para crear herramientas de generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
 
 Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
+
+Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias interactivas mientras sigo aprendiendo tecnologías emergentes.
 
 # Lenguajes, tecnologías y herramientas:
 
