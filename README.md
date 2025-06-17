@@ -38,7 +38,7 @@ Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías
 <img src="https://programadorphp.es/wp-content/uploads/2014/04/codeigniter.png" alt="Codeigniter" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="60" height="50" />
-<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="70" height="50" />
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="75" height="55" />
 <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="Next.js" width="60" height="50" />
 <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="60" height="50" />
