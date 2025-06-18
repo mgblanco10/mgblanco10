@@ -5,7 +5,7 @@ Desarrolladora web especializada en experiencias 3D interactivas, con pasión po
 
 Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración con inteligencia artificial para crear herramientas de generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
 
-Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
+Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack dentro de mi trabajo y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
 
 Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias interactivas mientras sigo aprendiendo tecnologías emergentes.
 
