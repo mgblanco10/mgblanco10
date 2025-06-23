@@ -84,8 +84,11 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 #### Lo que me define:
 
 📚 Aprendizaje continuo: Especialización en el stack MERN, patrones de diseño (SOLID, Clean Code) y arquitecturas escalables. Comprometida con la mejora constante y la adopción de mejores prácticas.
+
 🤝 Trabajo en equipo: Colaboración activa, escucha empática y aprendizaje mutuo. Creo en la sinergia para alcanzar metas extraordinarias y en valorar cada perspectiva.
+
 🔧 Versatilidad técnica: Experiencia en backend (OOP, APIs robustas) y calidad de software (pruebas unitarias, E2E e integración). Enfoque en soluciones eficientes y mantenibles.
+
 ✨ Soft skills: Alegría, curiosidad inquebrantable y perseverancia. Firmemente convencida de que los grandes proyectos surgen de equipos diversos, pasión por innovar y la búsqueda de la excelencia.
 
 🚀 Siempre lista para nuevos retos que impulsen mi crecimiento y impacto.
