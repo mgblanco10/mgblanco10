@@ -23,11 +23,11 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="40" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="65"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="60" width="70"/>
-<img src='https://velog.velcdn.com/images/ebing/post/64896a3c-7e86-43e8-babe-ef99a9c52586/image.png' alt="Framer Motion"  height="40" width="70"/>
-<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="50" height="50"/>
+<img src='https://velog.velcdn.com/images/ebing/post/64896a3c-7e86-43e8-babe-ef99a9c52586/image.png' alt="Framer Motion"  height="35" width="65"/>
+<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="35" height="35" />
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" height="30"/>
 <img src="https://miro.medium.com/v2/resize:fit:438/1*dQvABiWzbE28OTPYjzElKw.png" alt="Flask" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
