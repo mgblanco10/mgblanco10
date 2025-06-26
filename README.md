@@ -65,7 +65,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://i.pinimg.com/1200x/c6/ab/c6/c6abc6dc9b99aea3aaafb12d1d35c0f4.jpg" alt="Docker" width="60" height="60"/>
 <img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="80" height="50"/>
 <img src="https://logowik.com/content/uploads/images/leaflet2903.logowik.com.webp" alt="Leaflet" width="90" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="35" height="35"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="45" height="50"/>
 <img src="https://static.thenounproject.com/png/3180475-200.png" alt="glTF" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="70" height="40"/>
