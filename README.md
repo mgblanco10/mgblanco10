@@ -89,7 +89,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 
 🔧 La versatilidad técnica: Experiencia en backend (OOP, APIs robustas) y calidad de software (pruebas unitarias, E2E e integración). Enfoque en soluciones eficientes y mantenibles.
 
-✨ Soft skills: Alegría, curiosidad inquebrantable y perseverancia. Firmemente convencida de que los grandes proyectos surgen de equipos diversos.
+✨ Soft skills: Alegría, curiosidad inquebrantable y perseverancia. Convencida de que la grandeza en los proyectos emerge de equipos diversos.
 
 🚀 Siempre lista para nuevos retos que impulsen mi crecimiento y impacto.
 
