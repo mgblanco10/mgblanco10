@@ -1,7 +1,7 @@
 <img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 200px; width: 100%;">
 
 # Sobre mi
-Desarrolladora web especializada en experiencias 3D interactivas, con pasión por resolver desafíos técnicos complejos y crear soluciones innovadoras, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
+Soy una desarrolladora web especializada en experiencias 3D interactivas, con pasión por resolver desafíos técnicos complejos y crear soluciones innovadoras, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
 
 Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración con inteligencia artificial para crear herramientas de generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
 
@@ -83,19 +83,19 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 
 #### Lo que me define:
 
-📚 Aprendizaje continuo: Especialización en el stack MERN, patrones de diseño (SOLID, Clean Code) y arquitecturas escalables. Comprometida con la mejora constante y la adopción de mejores prácticas.
+📚 El aprendizaje continuo: Especialización en el stack MERN, patrones de diseño (SOLID, Clean Code) y arquitecturas escalables. Comprometida con la mejora constante y la adopción de mejores prácticas.
 
-🤝 Trabajo en equipo: Colaboración activa, escucha empática y aprendizaje mutuo. Creo en la sinergia para alcanzar metas extraordinarias y en valorar cada perspectiva.
+🤝 El trabajo en equipo: Colaboración activa, escucha empática y aprendizaje mutuo. Creo en la sinergia para alcanzar metas extraordinarias y en valorar cada perspectiva.
 
-🔧 Versatilidad técnica: Experiencia en backend (OOP, APIs robustas) y calidad de software (pruebas unitarias, E2E e integración). Enfoque en soluciones eficientes y mantenibles.
+🔧 La versatilidad técnica: Experiencia en backend (OOP, APIs robustas) y calidad de software (pruebas unitarias, E2E e integración). Enfoque en soluciones eficientes y mantenibles.
 
-✨ Soft skills: Alegría, curiosidad inquebrantable y perseverancia. Firmemente convencida de que los grandes proyectos surgen de equipos diversos, pasión por innovar y la búsqueda de la excelencia.
+✨ Soft skills: Alegría, curiosidad inquebrantable y perseverancia. Firmemente convencida de que los grandes proyectos surgen de equipos diversos.
 
 🚀 Siempre lista para nuevos retos que impulsen mi crecimiento y impacto.
 
 
 
-Soy alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
+Soy una persona alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
 
 
 <!-- [![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)  -->
