@@ -23,7 +23,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg' alt="Bootstrap"  height="40" width="65"/>
 <img src='https://www.vectorlogo.zone/logos/mui/mui-ar21~bgwhite.svg' alt="MUI"  height="50" width="65"/>
 <img src='https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp' alt="RadixUI"  height="60" width="70"/>
-<img src='https://velog.velcdn.com/images/ebing/post/64896a3c-7e86-43e8-babe-ef99a9c52586/image.png' alt="Framer Motion"  height="60" width="75"/>
+<img src='https://velog.velcdn.com/images/ebing/post/64896a3c-7e86-43e8-babe-ef99a9c52586/image.png' alt="Framer Motion"  height="70" width="85"/>
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="35" height="35" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35" height="35"/>
