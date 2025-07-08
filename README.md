@@ -33,15 +33,10 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="40"/>
 <img src="https://bagisto.com/wp-content/uploads/2023/04/Laravel-Sanctum.jpeg" alt="Sanctum" width="65" height="40"/>
-<img src="https://images.icon-icons.com/2699/PNG/512/graphql_logo_icon_171045.png" alt="GraphQL" width="90" height="50"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL_CvWdyQiIUOMvI208iJGa-yGC92g3szRKw&s" alt="REST" width="40" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/2041px-Oauth_logo.svg.png" alt="OAuth" width="50" height="50"/>
-<img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="80" height="50"/>
 <img src="https://programadorphp.es/wp-content/uploads/2014/04/codeigniter.png" alt="Codeigniter" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="60" height="50" />
 <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="75" height="55" />
-<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="Next.js" width="60" height="50" />
 <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="60" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mySql" width="70" height="60"/>
@@ -49,9 +44,13 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://img.unocero.com/2020/01/unocero-pandas-1024x576.jpg" alt="Pandas" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="60" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="80" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="75" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="xampp" width="40" height="40"/>
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="75" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL_CvWdyQiIUOMvI208iJGa-yGC92g3szRKw&s" alt="REST" width="40" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/2041px-Oauth_logo.svg.png" alt="OAuth" width="50" height="50"/>
+<img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="80" height="50"/>
+<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" width="80" height="50"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/>
 <img src="https://www.elizeire.com/assets/img/swagger.png" alt="swagger" width="75" height="50"/>
 <img src="https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg" alt="insonnia" width="70" height="40"/>
@@ -63,15 +62,16 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxheAd698kuEp_JigbYHFntCAvC4NJADdSZg&s" alt="PHPUnit" width="50" height="50"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QNRD58OdpdN-4L9PFtuhUzvkFwQLo76HlA&s" alt="Cypress" width="70" height="35"/>
 <img src="https://i.pinimg.com/1200x/c6/ab/c6/c6abc6dc9b99aea3aaafb12d1d35c0f4.jpg" alt="Docker" width="60" height="60"/>
-<img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="80" height="50"/>
 <img src="https://logowik.com/content/uploads/images/leaflet2903.logowik.com.webp" alt="Leaflet" width="90" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="35" height="35"/>
+<img src="https://i.imgur.com/ygvUXeo.png" alt="Three.js" width="80" height="50"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/graphql_logo_icon_171045.png" alt="GraphQL" width="90" height="50"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="45" height="55"/>
 <img src="https://static.thenounproject.com/png/3180475-200.png" alt="glTF" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="70" height="40"/>
+<img src="https://raw.githubusercontent.com/CesiumGS/gltf-pipeline/HEAD/doc/gltf.png" alt="GLTF" width="70" height="40"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="65" height="45"/>
 <img src="https://codelabs.developers.google.com/static/your-first-webgpu-app/img/b2dfc2b7faba3c13.png" alt="WebGPU" width="55" height="45"/>
-<img src="https://raw.githubusercontent.com/CesiumGS/gltf-pipeline/HEAD/doc/gltf.png" alt="GLTF" width="70" height="40"/>
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg" alt="D3.js" width="40" height="40"/>
 <img src="https://www.luisllamas.es/images/20610/javascript-chartjs.png" alt="Chart.js" width="50" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*SNiXLLhxrM5DBVLuBC9tvQ.png" alt="Recharts" width="60" height="40"/>
