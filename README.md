@@ -35,7 +35,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://bagisto.com/wp-content/uploads/2023/04/Laravel-Sanctum.jpeg" alt="Sanctum" width="65" height="40"/>
 <img src="https://programadorphp.es/wp-content/uploads/2014/04/codeigniter.png" alt="Codeigniter" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="55" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="40" />
 <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="75" height="55" />
 <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="Next.js" width="60" height="50" />
 <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21~bgwhite.svg" alt="Axios" width="60" height="50" />
