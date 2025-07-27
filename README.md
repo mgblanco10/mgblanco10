@@ -68,8 +68,8 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://images.icon-icons.com/2699/PNG/512/graphql_logo_icon_171045.png" alt="GraphQL" width="90" height="50"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="45" height="55"/>
 <img src="https://static.thenounproject.com/png/3180475-200.png" alt="glTF" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="70" height="40"/>
-<img src="https://raw.githubusercontent.com/CesiumGS/gltf-pipeline/HEAD/doc/gltf.png" alt="GLTF" width="70" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_4O1BTlTyXUVKyTMhoia9o_sAwwFUmolaA&s" alt="Draco" width="60" height="30"/>
+<img src="https://raw.githubusercontent.com/CesiumGS/gltf-pipeline/HEAD/doc/gltf.png" alt="GLTF" width="60" height="30"/>
 <img src="https://immersivepro.es/wp-content/uploads/2020/12/48.1.png" alt="WebGL" width="65" height="45"/>
 <img src="https://codelabs.developers.google.com/static/your-first-webgpu-app/img/b2dfc2b7faba3c13.png" alt="WebGPU" width="55" height="45"/>
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg" alt="D3.js" width="40" height="40"/>
