@@ -44,7 +44,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://img.unocero.com/2020/01/unocero-pandas-1024x576.jpg" alt="Pandas" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="60" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="MongoDB" width="80" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="75" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21~bgwhite.svg" alt="mariaDB" width="70" height="45"/>
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="xampp" width="40" height="40"/>
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL_CvWdyQiIUOMvI208iJGa-yGC92g3szRKw&s" alt="REST" width="35" height="45"/>
