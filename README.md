@@ -27,7 +27,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="35" height="35" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="85" height="35"/>
 <img src="https://miro.medium.com/v2/resize:fit:438/1*dQvABiWzbE28OTPYjzElKw.png" alt="Flask" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="90" height="50"/>
