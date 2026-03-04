@@ -111,7 +111,7 @@ Soy una persona alegre, curiosa y perseverante, convencida de que los mejores pr
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&hide=CHATGPT,courseraPython&langs_count=10&exclude_repo=courseraPython&hide_border=true&theme=dark&hide_title=true&token=<TOKEN>)](https://github.com/mgblanco10/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&hide=CHATGPT,courseraPython)](https://github.com/mgblanco10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&include_all_commits=true)](https://github.com/mgblanco10/github-readme-stats)
 
 
 
