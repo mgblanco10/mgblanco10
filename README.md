@@ -108,20 +108,11 @@ Soy una persona alegre, curiosa y perseverante, convencida de que los mejores pr
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact)](https://github.com/mgblanco10/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&exclude_repo=CHATGPT)](https://github.com/mgblanco10/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&hide=CHATGPT,courseraPython)](https://github.com/mgblanco10/github-readme-stats) -->
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&hide=CHATGPT,courseraPython&langs_count=10&exclude_repo=courseraPython&hide_border=true&theme=dark&hide_title=true&token=<TOKEN>)](https://github.com/mgblanco10/github-readme-stats) -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&include_forks=true&include_all_commits=true&count_private=true)](https://github.com/mgblanco10/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&include_forks=true&include_all_commits=true&count_private=true)](https://github.com/mgblanco10/github-readme-stats) -->
 
 ---
-
-<div align="center">
-  
-  **💝 Thanks for visiting!**
-  
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgblanco10&label=Profile%20views&color=0e75b6&style=flat" alt="mgblanco10" /> </p>
 
 
 # Contáctame 
