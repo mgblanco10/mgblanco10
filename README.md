@@ -114,9 +114,28 @@ Soy una persona alegre, curiosa y perseverante, convencida de que los mejores pr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&include_forks=true&include_all_commits=true&count_private=true)](https://github.com/mgblanco10/github-readme-stats)
 
+---
+
+<div align="center">
+  
+  **💝 Thanks for visiting!**
+  
+  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+</div>
+
 
 # Contáctame 
-<img alt="Logo de Linkedin" src="./img/linkedinLogo.png" width="45">
+<!-- <img alt="Logo de Linkedin" src="./img/linkedinLogo.png" width="45">
 
-[LinkedIn](https://www.linkedin.com/in/monicablancocalvi%C3%B1o/)
+[LinkedIn](https://www.linkedin.com/in/monicablancocalvi%C3%B1o/) -->
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/monicablancocalvi%C3%B1o/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mgblanco1001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
