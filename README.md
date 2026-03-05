@@ -111,9 +111,6 @@ Soy una persona alegre, curiosa y perseverante, convencida de que los mejores pr
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&hide=CHATGPT,courseraPython&langs_count=10&exclude_repo=courseraPython&hide_border=true&theme=dark&hide_title=true&token=<TOKEN>)](https://github.com/mgblanco10/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgblanco10&layout=compact&include_forks=true&include_all_commits=true&count_private=true)](https://github.com/mgblanco10/github-readme-stats) -->
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgblanco10&label=Profile%20views&color=0e75b6&style=flat" alt="mgblanco10" /> </p>
-
 
 # Contáctame 
 <!-- <img alt="Logo de Linkedin" src="./img/linkedinLogo.png" width="45">
@@ -125,8 +122,6 @@ Soy una persona alegre, curiosa y perseverante, convencida de que los mejores pr
   <a href="https://www.linkedin.com/in/monicablancocalvi%C3%B1o/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mgblanco1001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="mailto:mgblanco1001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
