@@ -79,7 +79,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://play-lh.googleusercontent.com/fXIMZ6EP31ml3n7bPu9CNHAuboCQ8DwLPHZ0ly--Uk6WvVcg3hkyF0GOSpOJwbrZQQ" alt="Nivo" width="50" height="50"/>
 <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/02/WebRTC-Vertical-Logo.jpg?resize=500%2C334" alt="WebRTC" width="60" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="80" height="45"/>
-<img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="65" height="40"/>
+<img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="60" height="40"/>
 <img src="https://antoniofernandez.com/assets/blog/cloudinary.png" alt="cloudinary" width="60" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digitalocean" width="60" height="50"/>
 </div>
