@@ -11,7 +11,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 
 # Lenguajes, tecnologías y herramientas:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: flex-start;">
+<div align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="35" heigth="35"/>
 <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="35" heigth="35"/>
