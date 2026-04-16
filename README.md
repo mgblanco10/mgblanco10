@@ -11,7 +11,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 
 # Lenguajes, tecnologías y herramientas:
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="35" heigth="35"/>
 <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="35" heigth="35"/>
@@ -81,7 +81,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://miro.medium.com/v2/resize:fit:699/1*Xz7EjcO3AUYi0jxx6SAzug.png" alt="SignalR" width="80" height="45"/>
 <img src="https://spatie.be/images/og-image.jpg" alt="spatie" width="60" height="40"/>
 <img src="https://antoniofernandez.com/assets/blog/cloudinary.png" alt="cloudinary" width="60" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digitalocean" width="60" height="50"/>
+<img src="https://e7.pngegg.com/pngimages/195/327/png-clipart-digital-ocean-vertical-logo-tech-companies.png" alt="digitalocean" width="60" height="50"/>
 </div>
 
 #### Lo que me define:
