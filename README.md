@@ -51,7 +51,7 @@ Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias int
 <img src="https://www.pngkey.com/png/detail/802-8025481_mamp-mamp-icon.png" alt="mamp" width="40" height="40"/>
 <img src="https://freepngimg.com/download/icon/web/7955-rest-api.png" alt="REST" width="40" height="50"/>
     <br><br>
-<img src="./img/header.png" width="45" height="45" />   
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" width="45" height="45" />   
 <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="65" height="40"/>
 <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" width="85" height="55"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/>
