@@ -1,4 +1,4 @@
-<img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 180px; width: 100%;">
+<img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 160px; width: 100%;">
 
 # Sobre mi
 Soy una desarrolladora web especializada en experiencias 3D interactivas, con pasión por resolver desafíos técnicos complejos y crear soluciones innovadoras, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
