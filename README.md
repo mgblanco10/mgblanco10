@@ -1,13 +1,14 @@
 <img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 160px; width: 100%;">
 
 # Sobre mi
-Soy una desarrolladora web especializada en experiencias 3D interactivas, con pasión por resolver desafíos técnicos complejos y crear soluciones innovadoras, disfruto enfrentando retos técnicos y aprendiendo constantemente para crecer como profesional. Mi curiosidad y compromiso me han llevado a explorar desde el desarrollo frontend hasta soluciones full-stack, siempre aplicando buenas prácticas, código limpio y metodologías ágiles (Scrum/Kanban).
+Soy desarrolladora de software especializada en **experiencias 3D interactivas para la web**, con una gran pasión por resolver problemas técnicos complejos y transformar ideas en soluciones intuitivas y de alto rendimiento. Me motiva afrontar nuevos desafíos, aprender de forma continua y evolucionar profesionalmente, siempre aplicando buenas prácticas de desarrollo, código limpio y metodologías ágiles como Scrum y Kanban.
 
-Actualmente, me dedico al desarrollo frontend de aplicaciones 3D para diseño de interiores, donde combino tecnologías como Three.js, React Three Fiber y WebGL con integración con inteligencia artificial para crear herramientas de generación automática de diseños, renders fotorealistas y visores colaborativos en tiempo real con funcionalidades multiusuario. Mi enfoque mobile-first y la optimización de rendimiento garantizan experiencias fluidas en cualquier dispositivo.
+Actualmente desarrollo aplicaciones 3D para diseño de interiores, donde combino tecnologías como **Three.js, React Three Fiber, WebGL y TypeScript** con integración de **Inteligencia Artificial** para crear herramientas capaces de generar diseños automáticamente, producir renders fotorrealistas y ofrecer visores colaborativos en tiempo real con funcionalidades multiusuario. Uno de mis principales focos es optimizar el rendimiento y garantizar una experiencia fluida en cualquier dispositivo siguiendo un enfoque *mobile-first*.
 
-Trabajo con un stack moderno (React, TypeScript, Zustand, Tailwind) y librerías 3D como drei o CSG, complementado con Blender para modelos. Además, estoy ampliando mis conocimientos en .NET para contribuir en proyectos full-stack dentro de mi trabajo y explorando tecnologías como WebGPU o WASM para llevar estas experiencias al siguiente nivel.
+Trabajo habitualmente con un stack moderno basado en **React, TypeScript, Zustand y Tailwind CSS**, además de librerías especializadas como **@react-three/drei**, **CSG** y **Blender** para la integración y manipulación de modelos 3D. Paralelamente, estoy ampliando mis conocimientos en **.NET** para participar en desarrollos *full-stack* y explorando tecnologías emergentes como **WebGPU** y **WebAssembly (WASM)** para llevar las aplicaciones web 3D al siguiente nivel.
 
-Busco proyectos desafiantes donde pueda aportar mi expertise en experiencias interactivas mientras sigo aprendiendo tecnologías emergentes.
+Busco proyectos desafiantes en los que pueda aportar mi experiencia en desarrollo Frontend y aplicaciones 3D, colaborar con equipos que valoren la calidad del software y seguir creciendo profesionalmente mientras exploro nuevas tecnologías y arquitecturas.
+
 
 # Lenguajes, tecnologías y herramientas:
 
