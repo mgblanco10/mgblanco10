@@ -194,17 +194,17 @@ Busco proyectos desafiantes en los que pueda aportar mi experiencia en desarroll
 
 #### Lo que me define:
 
-📚 El aprendizaje continuo: Especialización en el stack MERN, patrones de diseño (SOLID, Clean Code) y arquitecturas escalables. Comprometida con la mejora constante y la adopción de mejores prácticas.
+📚 Aprendizaje continuo: Me apasiona seguir creciendo como ingeniera de software. Disfruto explorando nuevas tecnologías, patrones de diseño, arquitecturas escalables y buenas prácticas como SOLID y Clean Code para construir soluciones mantenibles y de calidad.
 
-🤝 El trabajo en equipo: Colaboración activa, escucha empática y aprendizaje mutuo. Creo en la sinergia para alcanzar metas extraordinarias y en valorar cada perspectiva.
+🚀 Pasión por los retos técnicos: Me motiva resolver problemas complejos, especialmente en el desarrollo de aplicaciones 3D interactivas, optimización de rendimiento y creación de experiencias que combinen tecnología e innovación.
 
-🔧 La versatilidad técnica: Experiencia en backend (OOP, APIs robustas) y calidad de software (pruebas unitarias, E2E e integración). Enfoque en soluciones eficientes y mantenibles.
+🤝 Trabajo en equipo: Creo en la comunicación, la colaboración y el aprendizaje compartido. Disfruto trabajando con equipos multidisciplinares, aportando ideas y aprendiendo de las distintas perspectivas para construir mejores soluciones.
 
-✨ Soft skills: Alegría, curiosidad inquebrantable y perseverancia. Convencida de que la grandeza en los proyectos emerge de equipos diversos.
+🔧 Versatilidad técnica: Mi especialidad es el desarrollo Frontend, pero también cuento con experiencia en Backend, diseño de APIs y calidad del software mediante pruebas unitarias, de integración y end-to-end. Me gusta comprender el funcionamiento completo de las aplicaciones para aportar soluciones más sólidas.
 
-🚀 Siempre lista para nuevos retos que impulsen mi crecimiento y impacto.
+✨ Actitud: Soy una persona curiosa, perseverante y positiva. Afronto cada proyecto con entusiasmo, buscando siempre aprender, aportar valor y mejorar tanto el producto como la forma de trabajar del equipo.
 
-
+💡 Siempre abierta a nuevos desafíos que me permitan seguir creciendo profesionalmente, aportar mi experiencia y continuar aprendiendo de tecnologías y equipos excepcionales.
 
 Soy una persona alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
 
