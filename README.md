@@ -200,14 +200,14 @@ Busco proyectos desafiantes en los que pueda aportar mi experiencia en desarroll
 
 🤝 Trabajo en equipo: Para mí, un buen proyecto no depende solo de la parte técnica, sino también de las personas que hay detrás. Valoro mucho la comunicación, la colaboración y poder aprender de otros. Me gusta trabajar con equipos multidisciplinares, compartir ideas y encontrar juntos la mejor solución.
 
-🔧 Versatilidad técnica: Mi especialidad es el desarrollo Frontend, pero también cuento con experiencia en Backend, diseño de APIs y calidad del software mediante pruebas unitarias, de integración y end-to-end. Me gusta comprender el funcionamiento completo de las aplicaciones para aportar soluciones más sólidas.
+🔧 Versatilidad técnica: Mi experiencia se centra principalmente en el desarrollo Frontend, aunque también he trabajado en Backend, diseño de APIs y testing, incluyendo pruebas unitarias, de integración y end-to-end. Me gusta tener una visión global de las aplicaciones y entender cómo encajan sus diferentes partes para poder tomar mejores decisiones técnicas.
 
-✨ Actitud: Soy una persona curiosa, perseverante y positiva. Afronto cada proyecto con entusiasmo, buscando siempre aprender, aportar valor y mejorar tanto el producto como la forma de trabajar del equipo.
+✨ Actitud: Soy una persona curiosa, perseverante y positiva. Cuando me enfrento a un proyecto nuevo, intento hacerlo con ganas de aprender, aportar y mejorar. No siempre hay una solución sencilla a la primera, pero disfruto del proceso de probar, investigar y encontrar la mejor manera de hacerlo.
 
-💡 Siempre abierta a nuevos desafíos que me permitan seguir creciendo profesionalmente, aportar mi experiencia y continuar aprendiendo de tecnologías y equipos excepcionales.
+💡 Siempre con ganas de nuevos retos: Me motiva seguir creciendo profesionalmente, trabajar con personas de las que pueda aprender y participar en proyectos que me permitan poner en práctica lo que sé mientras sigo descubriendo cosas nuevas.
 
-Soy una persona alegre, curiosa y perseverante, convencida de que los mejores proyectos nacen de la colaboración y la pasión por mejorar. ¡Siempre abierta a nuevos desafíos!
-
+En definitiva, soy una persona a la que le gusta aprender, resolver problemas y trabajar en equipo. Creo que los mejores resultados aparecen cuando hay curiosidad, colaboración y ganas de hacer las cosas cada vez un poco mejor. 
+¡Siempre abierta a nuevos desafíos!
 
 <!-- [![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10)](https://github.com/mgblanco10/github-readme-stats)  -->
 <!--  ![Monica Blanco GitHub stats](https://github-readme-stats.vercel.app/api?username=mgblanco10&hide=contribs,prs)  -->
