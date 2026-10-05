@@ -194,11 +194,11 @@ Busco proyectos desafiantes en los que pueda aportar mi experiencia en desarroll
 
 #### Lo que me define:
 
-📚 Aprendizaje continuo: Me apasiona seguir creciendo como ingeniera de software. Disfruto explorando nuevas tecnologías, patrones de diseño, arquitecturas escalables y buenas prácticas como SOLID y Clean Code para construir soluciones mantenibles y de calidad.
+📚 Aprendizaje continuo: Me gusta seguir aprendiendo y creciendo como ingeniera de software. Disfruto descubrir nuevas tecnologías, entender cómo funcionan las cosas y mejorar la forma en la que desarrollo software. Me interesan especialmente los patrones de diseño, las arquitecturas escalables y buenas prácticas como SOLID o Clean Code, siempre con el objetivo de crear soluciones mantenibles y de calidad.
 
-🚀 Pasión por los retos técnicos: Me motiva resolver problemas complejos, especialmente en el desarrollo de aplicaciones 3D interactivas, optimización de rendimiento y creación de experiencias que combinen tecnología e innovación.
+🚀 Pasión por los retos técnicos: Disfruto enfrentándome a problemas complejos y buscando soluciones que realmente aporten valor. Me llaman especialmente la atención el desarrollo de aplicaciones 3D interactivas, la optimización del rendimiento y los proyectos que combinan tecnología, creatividad e innovación.
 
-🤝 Trabajo en equipo: Creo en la comunicación, la colaboración y el aprendizaje compartido. Disfruto trabajando con equipos multidisciplinares, aportando ideas y aprendiendo de las distintas perspectivas para construir mejores soluciones.
+🤝 Trabajo en equipo: Para mí, un buen proyecto no depende solo de la parte técnica, sino también de las personas que hay detrás. Valoro mucho la comunicación, la colaboración y poder aprender de otros. Me gusta trabajar con equipos multidisciplinares, compartir ideas y encontrar juntos la mejor solución.
 
 🔧 Versatilidad técnica: Mi especialidad es el desarrollo Frontend, pero también cuento con experiencia en Backend, diseño de APIs y calidad del software mediante pruebas unitarias, de integración y end-to-end. Me gusta comprender el funcionamiento completo de las aplicaciones para aportar soluciones más sólidas.
 
