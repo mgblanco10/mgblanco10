@@ -225,6 +225,5 @@ En definitiva, soy una persona a la que le gusta aprender, resolver problemas y 
 
 [LinkedIn](https://www.linkedin.com/in/monicablancocalvi%C3%B1o/) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgblanco10&label=Profile%20views&color=0e75b6&style=flat" alt="mgblanco10 views" /> </p>
 
 <div align="center"><a href="https://www.linkedin.com/in/monicablancocalvi%C3%B1o/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Contacto-mgblanco1001@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></div>
