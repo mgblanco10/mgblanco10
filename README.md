@@ -1,7 +1,7 @@
 <img src="./img/header.png" alt="Imagen del header donde me identifico" style="height: 160px; width: 100%;">
 
 # Sobre mi
-Soy desarrolladora de software especializada en **experiencias 3D interactivas para la web**, con una gran pasión por resolver problemas técnicos complejos y transformar ideas en soluciones intuitivas y de alto rendimiento. Me motiva afrontar nuevos desafíos, aprender de forma continua y evolucionar profesionalmente, siempre aplicando buenas prácticas de desarrollo, código limpio y metodologías ágiles como Scrum y Kanban.
+Soy desarrolladora de software especializada en **experiencias 3D interactivas para la web**, con una pasión por resolver problemas técnicos complejos y transformar ideas en soluciones intuitivas y de alto rendimiento. Me motiva afrontar nuevos desafíos, aprender de forma continua y evolucionar profesionalmente, siempre aplicando buenas prácticas de desarrollo, código limpio y metodologías ágiles como Scrum y Kanban.
 
 Actualmente desarrollo aplicaciones 3D para diseño de interiores, donde combino tecnologías como **Three.js, React Three Fiber, WebGL y TypeScript** con integración de **Inteligencia Artificial** para crear herramientas capaces de generar diseños automáticamente, producir renders fotorrealistas y ofrecer visores colaborativos en tiempo real con funcionalidades multiusuario. Uno de mis principales focos es optimizar el rendimiento y garantizar una experiencia fluida en cualquier dispositivo siguiendo un enfoque *mobile-first*.
 
